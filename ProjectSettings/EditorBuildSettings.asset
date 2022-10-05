@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/TemperatureChecker.unity
+    guid: d24ae53f68e2a6b41b1518ddf30d9180
+  - enabled: 1
+    path: Assets/Scenes/WeekTwoActivities.unity
+    guid: c103ecd9aa5a2e74f814708f87901059
   m_configObjects: {}
